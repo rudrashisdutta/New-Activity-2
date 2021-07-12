@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PRIORITY LIST</string>
+    <string name="search_hint">Enter a name to add to your priority list…</string>
+    <string name="delete">DELETE</string>
+</resources>
